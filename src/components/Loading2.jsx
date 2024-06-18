@@ -2,6 +2,8 @@ import React from "react";
 import { SyncLoader } from "react-spinners";
 import styled from "styled-components";
 
+// 연습용
+
 const Container = styled.div`
   font-size: 10rem;
   height: 800px;
